@@ -1,0 +1,9 @@
+#Source Dependencies
+#Wed Apr 20 19:14:45 JST 2011
+src\\main\\scala\\org\\crashball\\Ball.scala=src\\main\\scala\\org\\crashball\\CrashBallView.scala;src\\main\\scala\\org\\crashball\\Brick.scala
+src\\main\\scala\\org\\crashball\\MainActivity.scala=
+src\\main\\scala\\org\\crashball\\Brick.scala=src\\main\\scala\\org\\crashball\\CrashBallView.scala;src\\main\\scala\\org\\crashball\\MainActivity.scala
+src\\main\\scala\\org\\crashball\\CrashBallView.scala=src\\main\\scala\\org\\crashball\\MainActivity.scala;src\\main\\scala\\org\\crashball\\Brick.scala;src\\main\\scala\\org\\crashball\\Ball.scala
+src\\main\\java\\org\\crashball\\R.java=src\\main\\scala\\org\\crashball\\CrashBallView.scala;src\\main\\scala\\org\\crashball\\MainActivity.scala
+src\\main\\scala\\org\\crashball\\ActiveObject.scala=src\\main\\scala\\org\\crashball\\Brick.scala;src\\main\\scala\\org\\crashball\\Pad.scala;src\\main\\scala\\org\\crashball\\Ball.scala
+src\\main\\scala\\org\\crashball\\Pad.scala=src\\main\\scala\\org\\crashball\\CrashBallView.scala

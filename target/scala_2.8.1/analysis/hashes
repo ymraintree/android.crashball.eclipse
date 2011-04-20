@@ -1,0 +1,9 @@
+#Source Hashes
+#Wed Apr 20 19:14:45 JST 2011
+src\\main\\scala\\org\\crashball\\Ball.scala=c89aafcd90c8ade938bb770dca7d685f12f3e842
+src\\main\\scala\\org\\crashball\\MainActivity.scala=23feb7fce2ada131ccd51d5d325a6ea0d6ee5ade
+src\\main\\scala\\org\\crashball\\Brick.scala=cb7d7c9e6cbcc0b879a9a1d468a420196227b64c
+src\\main\\scala\\org\\crashball\\CrashBallView.scala=e24aaa11e324872a213cf3db48e4b14c400edc7a
+src\\main\\java\\org\\crashball\\R.java=67e9ff219d133ce367e0aa6881922cfae53256d9
+src\\main\\scala\\org\\crashball\\ActiveObject.scala=d3df577f4f0f5c7ed94e47cb0ebb409be26b3ee0
+src\\main\\scala\\org\\crashball\\Pad.scala=47631afb40fc5b69dc42816c920d054e8a6adc7c

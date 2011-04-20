@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  
+<org.crashball.CrashBallView
+  android:id="@+id/ball"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  />
+  <TextView
+  android:id="@+id/stock_balls"
+  android:text="@string/stock_ball_count"
+  android:visibility="visible"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_centerInParent="true"
+  android:gravity="top"
+  android:textColor="#000000"
+  android:textSize="20sp"/>
+  <RelativeLayout
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" >
+ <TextView
+  android:id="@+id/message"
+  android:text="@string/ready_message"
+  android:visibility="visible"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_centerInParent="true"
+  android:gravity="center_horizontal"
+  android:textColor="#ff8888ff"
+  android:textSize="24sp"/>
+  </RelativeLayout>
+  
+  </FrameLayout>
