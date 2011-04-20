@@ -1,5 +1,5 @@
 #Generated Classes
-#Wed Apr 20 19:14:45 JST 2011
+#Wed Apr 20 20:24:31 JST 2011
 src\\main\\scala\\org\\crashball\\Ball.scala=target\\scala_2.8.1\\classes\\org\\crashball\\Ball$.class;target\\scala_2.8.1\\classes\\org\\crashball\\Ball.class
 src\\main\\scala\\org\\crashball\\MainActivity.scala=target\\scala_2.8.1\\classes\\org\\crashball\\MainActivity.class;target\\scala_2.8.1\\classes\\org\\crashball\\MainActivity$.class
 src\\main\\scala\\org\\crashball\\Brick.scala=target\\scala_2.8.1\\classes\\org\\crashball\\Brick$.class;target\\scala_2.8.1\\classes\\org\\crashball\\Brick.class
@@ -7,3 +7,4 @@ src\\main\\scala\\org\\crashball\\CrashBallView.scala=target\\scala_2.8.1\\class
 src\\main\\java\\org\\crashball\\R.java=target\\scala_2.8.1\\classes\\org\\crashball\\R$drawable.class;target\\scala_2.8.1\\classes\\org\\crashball\\R$id.class;target\\scala_2.8.1\\classes\\org\\crashball\\R$layout.class;target\\scala_2.8.1\\classes\\org\\crashball\\R.class;target\\scala_2.8.1\\classes\\org\\crashball\\R$attr.class;target\\scala_2.8.1\\classes\\org\\crashball\\R$string.class
 src\\main\\scala\\org\\crashball\\ActiveObject.scala=target\\scala_2.8.1\\classes\\org\\crashball\\ActiveObject.class
 src\\main\\scala\\org\\crashball\\Pad.scala=target\\scala_2.8.1\\classes\\org\\crashball\\Pad$.class;target\\scala_2.8.1\\classes\\org\\crashball\\Pad.class
+src_managed\\main\\scala\\TR.scala=target\\scala_2.8.1\\classes\\org\\crashball\\TypedViewHolder.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedView$class.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedResource$.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedActivityHolder$class.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedActivity$class.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedActivityHolder.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedResource.class;target\\scala_2.8.1\\classes\\org\\crashball\\TR$.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedActivity.class;target\\scala_2.8.1\\classes\\org\\crashball\\TR.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedView.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedResource$$anon$2.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedResource$$anon$1.class;target\\scala_2.8.1\\classes\\org\\crashball\\TypedViewHolder$class.class

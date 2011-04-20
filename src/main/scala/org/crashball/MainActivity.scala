@@ -10,22 +10,22 @@ object MainActivity {
   private val ICICLE_KEY = "CRASH_BALL"
 }
 
-class MainActivity extends Activity {
+class MainActivity extends Activity with TypedActivity {
   private var mView: CrashBallView = null
 
   override def onCreate(icicle: Bundle) {
     super.onCreate(icicle)
     requestWindowFeature(Window.FEATURE_NO_TITLE)
     setContentView(R.layout.main)
-    mView = findViewById(R.id.ball).asInstanceOf[CrashBallView]
+    mView = findView(TR.ball)
     val display = getWindowManager.getDefaultDisplay
     Log.d(this.getClass.getSimpleName, "onCreate width=" + display.getWidth() + " height=" + display.getHeight())
     mView.w = display.getWidth
     mView.h = display.getHeight
     Brick.setWidth(display.getWidth)
     Brick.setHeight(display.getHeight)
-    mView.setTextView(findViewById(R.id.message).asInstanceOf[TextView])
-    mView.setPointTextView(findViewById(R.id.stock_balls).asInstanceOf[TextView])
+    mView.setTextView(findView(TR.message))
+    mView.setPointTextView(findView(TR.stock_balls))
     if (icicle == null) {
       mView.setMode(CrashBallView.READY)
     } else {

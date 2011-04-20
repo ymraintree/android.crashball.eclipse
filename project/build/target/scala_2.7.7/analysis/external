@@ -1,9 +1,11 @@
 #External Dependencies
-#Wed Apr 20 19:14:38 JST 2011
-C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=Crashball.scala
-C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\MarketPublish$class.class=Crashball.scala
-C\:\\Program\ Files\ (x86)\\Java\\jre6\\lib\\rt.jar=Crashball.scala
-C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\AndroidProject.class=Crashball.scala
-C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\AndroidTestProject.class=Crashball.scala
-C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\MarketPublish.class=Crashball.scala
+#Wed Apr 20 20:24:24 JST 2011
 C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5\\sbt_2.7.7-0.7.5.jar=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=Crashball.scala
+C\:\\Program\ Files\ (x86)\\Java\\jre6\\lib\\rt.jar=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\TypedResources$class.class=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\MarketPublish.class=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\AndroidTestProject.class=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\AndroidProject.class=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\TypedResources.class=Crashball.scala
+C\:\\Users\\yano\\eclipse-workspace-scala\\android.crashball\\project\\plugins\\target\\scala_2.7.7\\plugin-classes\\MarketPublish$class.class=Crashball.scala
